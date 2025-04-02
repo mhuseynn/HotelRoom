@@ -2,7 +2,7 @@
 
 
 using ConsoleApp10.Models;
-
+Hotel hotel = new Hotel("Iron");
 while (true)
 {
     Console.WriteLine(@"1. Create a room - otaq yaratmaq
@@ -10,7 +10,7 @@ while (true)
 3. Make reserve - rezerv etmək
 0. Exit - Çıxış");
 
-    Hotel hotel = new Hotel("Iron");
+   
 
     Console.WriteLine("Secim");
 
@@ -74,7 +74,6 @@ while (true)
             case 3:
                 while (!check)
                 {
-              
                     Console.Write("Id: ");
                     check = int.TryParse(Console.ReadLine(), out int id);
                     if (!check)

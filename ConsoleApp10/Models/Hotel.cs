@@ -7,12 +7,13 @@ class Hotel
     public int Id { get; set; }
     public string Name { get; set; }
 
-    private Room[] Rooms { get; set; } = new Room[0];
+    private Room[] Rooms { get; set; }
 
     public Hotel(string name)
     {
         Id = _id++;
         Name = name;
+        Rooms = new Room[0];
     }
 
 
@@ -42,6 +43,10 @@ class Hotel
                 }
                 else
                     Console.WriteLine("Otaq doludu");
+            }
+            else
+            {
+                Console.WriteLine("id sehvdi");
             }
         }
 
