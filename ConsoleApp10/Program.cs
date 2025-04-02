@@ -1,7 +1,7 @@
-﻿
+﻿using ConsoleApp10.Models;
 
 
-using ConsoleApp10.Models;
+
 Hotel hotel = new Hotel("Iron");
 while (true)
 {
@@ -17,16 +17,17 @@ while (true)
     int choise;
     bool ischeck = int.TryParse(Console.ReadLine(), out choise);
     bool check = false;
+    
+    
     if (ischeck)
     {
         switch (choise)
         {
-            case 1:
-                
+            case 1:  
                 while(!check)
                 {
                     Console.Write("Name: ");
-                    string Name = (Console.ReadLine());
+                    string Name = Console.ReadLine();
 
                     Console.Write("Price: ");
                     check = int.TryParse(Console.ReadLine(),out int price);
@@ -86,6 +87,7 @@ while (true)
                         hotel.MakeReservation(id);
                     }
                 }
+                check = false;
                 break;
             case 0:
                 Console.WriteLine("Exit");
