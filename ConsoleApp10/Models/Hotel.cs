@@ -24,7 +24,7 @@ class Hotel
         {
             newArr[i] = Rooms[i];
         }
-        newArr[Rooms.Length - 1] = room;
+        newArr[Rooms.Length] = room;
         Rooms = newArr;
     }
 

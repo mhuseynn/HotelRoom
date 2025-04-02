@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26852F9E-C4CA-4247-9179-B3586BDF8BF3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\i novbe\\source\\repos\\consoleapp10\\consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26852F9E-C4CA-4247-9179-B3586BDF8BF3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26852F9E-C4CA-4247-9179-B3586BDF8BF3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\i novbe\\source\\repos\\consoleapp10\\consoleapp10\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26852F9E-C4CA-4247-9179-B3586BDF8BF3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26852F9E-C4CA-4247-9179-B3586BDF8BF3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\i novbe\\source\\repos\\consoleapp10\\consoleapp10\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26852F9E-C4CA-4247-9179-B3586BDF8BF3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26852F9E-C4CA-4247-9179-B3586BDF8BF3}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\i novbe\\source\\repos\\consoleapp10\\consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26852F9E-C4CA-4247-9179-B3586BDF8BF3}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Hotel.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Models\\Hotel.cs",
               "RelativeDocumentMoniker": "ConsoleApp10\\Models\\Hotel.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Models\\Hotel.cs",
               "RelativeToolTip": "ConsoleApp10\\Models\\Hotel.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAcwCEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwBoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T06:04:43.884Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Models\\Room.cs",
               "RelativeDocumentMoniker": "ConsoleApp10\\Models\\Room.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Models\\Room.cs",
               "RelativeToolTip": "ConsoleApp10\\Models\\Room.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA5wB8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T05:59:23.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp10\\Program.cs",
               "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Program.cs",
               "RelativeToolTip": "ConsoleApp10\\Program.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAuwFIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAuwFIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T05:53:26.666Z",
               "EditorCaption": ""

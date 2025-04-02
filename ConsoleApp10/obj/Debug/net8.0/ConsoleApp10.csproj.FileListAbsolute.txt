@@ -12,3 +12,4 @@ C:\Users\I Novbe\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\refint\
 C:\Users\I Novbe\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.pdb
 C:\Users\I Novbe\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.genruntimeconfig.cache
 C:\Users\I Novbe\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ref\ConsoleApp10.dll
+C:\Users\I Novbe\source\repos\ConsoleApp10\ConsoleApp10\obj\Debug\net8.0\ConsoleApp10.sourcelink.json
