@@ -89,7 +89,8 @@ while (true)
                 break;
             case 0:
                 Console.WriteLine("Exit");
-                break;
+                return;
+              
             default:
                 break;
         }
